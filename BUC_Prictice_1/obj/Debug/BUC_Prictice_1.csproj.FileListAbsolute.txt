@@ -1,0 +1,13 @@
+D:\BUC\C#\Visual Studio Projects\source\repos\BUC_Prictice_1\BUC_Prictice_1\bin\Debug\BUC_Prictice_1.exe.config
+D:\BUC\C#\Visual Studio Projects\source\repos\BUC_Prictice_1\BUC_Prictice_1\bin\Debug\BUC_Prictice_1.exe
+D:\BUC\C#\Visual Studio Projects\source\repos\BUC_Prictice_1\BUC_Prictice_1\bin\Debug\BUC_Prictice_1.pdb
+D:\BUC\C#\Visual Studio Projects\source\repos\BUC_Prictice_1\BUC_Prictice_1\obj\Debug\BUC_Prictice_1.csproj.AssemblyReference.cache
+D:\BUC\C#\Visual Studio Projects\source\repos\BUC_Prictice_1\BUC_Prictice_1\obj\Debug\BUC_Prictice_1.frmWelcome.resources
+D:\BUC\C#\Visual Studio Projects\source\repos\BUC_Prictice_1\BUC_Prictice_1\obj\Debug\BUC_Prictice_1.Properties.Resources.resources
+D:\BUC\C#\Visual Studio Projects\source\repos\BUC_Prictice_1\BUC_Prictice_1\obj\Debug\BUC_Prictice_1.csproj.GenerateResource.cache
+D:\BUC\C#\Visual Studio Projects\source\repos\BUC_Prictice_1\BUC_Prictice_1\obj\Debug\BUC_Prictice_1.csproj.CoreCompileInputs.cache
+D:\BUC\C#\Visual Studio Projects\source\repos\BUC_Prictice_1\BUC_Prictice_1\obj\Debug\BUC_Prictice_1.exe
+D:\BUC\C#\Visual Studio Projects\source\repos\BUC_Prictice_1\BUC_Prictice_1\obj\Debug\BUC_Prictice_1.pdb
+D:\BUC\C#\Visual Studio Projects\source\repos\BUC_Prictice_1\BUC_Prictice_1\obj\Debug\BUC_Prictice_1.frmTwo.resources
+D:\BUC\C#\Visual Studio Projects\source\repos\BUC_Prictice_1\BUC_Prictice_1\obj\Debug\BUC_Prictice_1.frmProgress.resources
+D:\BUC\C#\Visual Studio Projects\source\repos\BUC_Prictice_1\BUC_Prictice_1\obj\Debug\BUC_Prictice_1.frmAfterProp.resources
